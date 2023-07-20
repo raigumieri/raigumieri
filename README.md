@@ -20,9 +20,6 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </div>
 
-
-
-  
 <br>
 
 <h4 align="center"> Minhas redes sociais </h4>
@@ -44,4 +41,7 @@
 <img src="https://profile-counter.glitch.me/{raigumieri}/count.svg"/>
 </div>
 
+![Snake Animation](https://github.com/raigumieri/raigumieri/edit/main/README.md)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer"/>
+
