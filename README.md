@@ -41,7 +41,8 @@
 <img src="https://profile-counter.glitch.me/{raigumieri}/count.svg"/>
 </div>
 
-![Snake gif](https://github.com/raigumieri/raigumieri/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/raigumieri/raigumieri/blob/main/.github/workflows/blank.yml)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer"/>
 
